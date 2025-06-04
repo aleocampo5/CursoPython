@@ -7,4 +7,4 @@ def imprimir(altura):
 
 
 
-imprimir(int(input("ingresar tamaño:")))
+imprimir(int(input("ingresar tamaño:")))<xccccc
